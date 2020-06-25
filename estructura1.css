@@ -1,0 +1,94 @@
+BODY{
+          BACKGROUND-COLOR:white;
+      }
+      P{
+        TEXT-SHADOW: 10PX 10PX 10PX #0033FF ;
+        COLOR:BLACK;
+        FONT-SIZE:20PX;
+        FONT-FAMILY:CAMBRIA;
+      }
+      PA{
+        TEXT-SHADOW: 10PX 10PX 10PX #33FF33 ;
+        COLOR:BLACK;
+        FONT-SIZE:20PX;
+        FONT-FAMILY:BATANG;
+      }
+      PI{
+        COLOR:BLACK;
+        FONT-SIZE:20PX;
+        FONT-FAMILY:Courier New;
+      }
+      #Cuadro1{
+      POSITION:ABSOLUTE;
+      LEFT:0PX;
+      TOP:0PX;
+      WIDTH:1550PX;
+      HEIGTH:800PX;
+      BACKGROUND:#C39BD3 ;
+      }
+      #Cuadroencabezado{
+      POSITION:ABSOLUTE;
+      LEFT:600PX;
+      TOP:0PX;
+      WIDTH:400PX;
+      HEIGTH:800PX;
+      BACKGROUND:#C39BD3 ;
+      }
+      #Cuadroencab{
+      POSITION:ABSOLUTE;
+      LEFT:1150PX;
+      TOP:0PX;
+      WIDTH:400PX;
+      HEIGTH:800PX;
+      BACKGROUND:#C39BD3 ;
+      }
+      #Cuadrobarra{
+      POSITION:ABSOLUTE;
+      LEFT:0PX;
+      TOP:200PX;
+      WIDTH:1550PX;
+      HEIGTH:200PX;
+      BACKGROUND:#F4D03F;
+      } 
+      #Cuadromateria{
+      POSITION:ABSOLUTE;
+      LEFT:1150PX;
+      TOP:235PX;
+      WIDTH:400PX;
+      HEIGTH:740PX;
+      BACKGROUND:#EC7063;
+      } 
+      #Cuadrocontenido1{
+      POSITION:ABSOLUTE;
+      LEFT:0PX;
+      TOP:300PX;
+      WIDTH:300PX;
+      HEIGTH:900PX;
+      BACKGROUND:#F1948A ;
+      } 
+     #Cuadrocontenido2{
+      POSITION:ABSOLUTE;
+      LEFT:1250PX;
+      TOP:300PX;
+      WIDTH:300PX;
+      HEIGTH:900PX;
+      BACKGROUND:#EB984E  ;
+      }       
+      #Cuadroinfo{
+      BOX-SHADOW: 10PX 10PX 5PX #FF0099 ;
+      POSITION:ABSOLUTE;
+      LEFT:350PX;
+      TOP:300PX;
+      WIDTH:850PX;
+      HEIGTH:700PX;
+      BACKGROUND:#5DADE2 ;
+      }
+      #Cuadropiep{
+      POSITION:ABSOLUTE;
+      LEFT:0PX;
+      TOP:15000PX;
+      WIDTH:1365PX;
+      HEIGTH:1000PX;
+      BACKGROUND:#76D7C4 ;
+      }
+    
